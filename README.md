@@ -7,6 +7,15 @@
 
 &nbsp;
 
+<img
+  align="center"
+  src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lucasluidy&layout=compact&hide=Tex,VHDL,Jupyter%20Notebook&theme=dark&custom_title=Linguagens%20mais%20usadas"
+  width="500"
+  height="350"
+/>
+
+&nbsp;
+
 <h2 align="left">🧑‍💻 Tecnologias</h2>
 
 <h3 align="left">Linguagens</h3>
