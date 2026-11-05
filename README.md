@@ -43,11 +43,15 @@
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=prisma)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=spring)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=springboot)
+<!--
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=springsecurity)
 [![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=springdata&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=springdata)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=hibernate)
+-->
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=postgresql)
+<!--
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=mongodb)
+-->
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=aws)
 
 <h3 align="left">Testes</h3>
@@ -61,7 +65,9 @@
 [![Wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=wordpress)
 [![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)](https://github.com/LucasLuidy?tab=repositories&q=framer)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9A825?style=for-the-badge&logo=googlecolab&logoColor=black)](https://github.com/LucasLuidy?tab=repositories&q=googlecolab)
+<!--
 [![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=docker)
+-->
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/LucasLuidy?tab=repositories&q=linux)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=black)](https://github.com/LucasLuidy?tab=repositories&q=visual-studio-code)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=intellij-idea)
