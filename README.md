@@ -43,16 +43,16 @@
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=prisma)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=spring)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=springboot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=postgresql)
 <!--
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=springsecurity)
 [![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=springdata&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=springdata)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=hibernate)
 -->
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=postgresql)
 <!--
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=mongodb)
--->
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&q=aws)
+-->
 
 <h3 align="left">Testes</h3>
 
